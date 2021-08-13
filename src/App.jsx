@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      hola mundo app
+      App
       <Provider store={store}>
         <Pokemones/>
       </Provider>
